@@ -10,12 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-native-community/voice": "^1.1.9",
     "@react-native-voice/voice": "^3.2.4",
     "react": "18.2.0",
     "react-native": "0.71.4",
-    "react-native-asset": "^2.1.0",
-    "react-speech-recognition": "^3.10.0"
+    "react-native-asset": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

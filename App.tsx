@@ -6,7 +6,7 @@
  */
 
 import React, {useEffect, useState} from 'react';
-import {SafeAreaView, ScrollView, StyleSheet, Text, View} from 'react-native';
+import {SafeAreaView, ScrollView, StyleSheet, View} from 'react-native';
 import Voice, {SpeechResultsEvent} from '@react-native-voice/voice';
 import {RecordButton} from './src/components/RecordButton';
 import {TextBox} from './src/components/TextBox';
